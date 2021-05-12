@@ -16,7 +16,7 @@ The simplified version of the game will only support a single player, with the s
 8. If the player’s health drops to 0 or below, they die and lose the game
 9. If the player makes it through all the monsters without dying, they win, and their score for the game is 100 per each monster defeated.
 
-Some special features have been added:
+Some extra features have been added:
 1. The player has an item that can use to defeat any of the monster of their choosing. For each monster the player get asked if he wants to use the item. If the item is used it will stop to get asked.
 2. The user has another item which defeat skeletons without them damaging the player. This item will be lost by the player whenever they first encounter a witch.
 3. All the scores will be stored in a DB using DB40 Object Database and the console will print both your score and the best score (reading it from the database). 
