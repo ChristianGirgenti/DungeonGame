@@ -18,4 +18,5 @@ The simplified version of the game will only support a single player, with the s
 Some special features have been added:
 1. The player has an item that can use to defeat any of the monster of their choosing. For each monster the player get asked if he wants to use the item. If the item is used it will stop to get asked.
 2. The user has another item which defeat skeletons without them damaging the player. This item will be lost by the player whenever they first encounter a witch.
-3. All the scores will be stored in a DB using DB40 Object Database and the console will print both your score and the best score (reading it from the database). The "com.db4o-8.1.9" library is included in the project folder. The name of the db file will be scores.db. 
+3. All the scores will be stored in a DB using DB40 Object Database and the console will print both your score and the best score (reading it from the database). 
+   The "com.db4o-8.1.9" library to make the database work is included in the lib folder inside the DungeonDB folder. The name of the db file will be scores.db. 
