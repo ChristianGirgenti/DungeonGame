@@ -4,11 +4,10 @@ This project has been implemented in Java using Eclipse.
 To run it, the zip file need to be imported in Eclipse.
 
 The simplified version of the game will only support a single player, with the sequence of play being as follows:
-1. A number of monsters are created, each of which has a name and a strength value
-  1.1 Skeleton strenght value 2
-  1.2 Goblin strength value 5
-  1.3 Witch strength value 8
-  1.4 Dragon strength value 10
+1. A number of monsters are created, each of which has a name and a strength value. Skeleton strenght value 2;
+   Goblin strength value 5;
+   Witch strength value 8;
+   Dragon strength value 10. 
 3. A player is created, with a fixed starting health value equal to 40
 4. A monster is chosen at random, and added to the dungeon
 5. The player is shown how many monsters are in the dungeon, and asked if they think they’ll be able to handle another one
