@@ -1,5 +1,6 @@
 # DungeonGame
 Console simulation of the "Welcome to the dungeon" table game.
+This project has been implemented in Java using Eclipse. 
 
 The simplified version of the game will only support a single player, with the sequence of play being as follows:
 1. A number of monsters are created, each of which has a name and a strength value
